@@ -7,7 +7,7 @@
 
 A aplicação está disponível [neste link](https://gustavogod.github.io/todolist-emix/).
 
-A aplicação utiliza local storage para armazenamento da lista de tarefas adicionadas. Isto é, ao recarregar ao recarregar ou fechar e abrir a aba do navegador, as tarefas adicionadas permanecem como estão.
+A aplicação utiliza local storage para armazenamento da lista de tarefas adicionadas. Isto é, ao recarregar ou fechar e abrir a aba do navegador, as tarefas adicionadas permanecem como estão.
 
 ## 🛠 Tecnologias utilizadas:
 
